@@ -14,3 +14,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 3 | **Minimum Element** | Single-pass comparison (`arr[i] < min`) | [`array_min.c`](./array_min.c) |
 | 4 | **Array Subtraction** | Sequential subtraction (`subtract -= arr[i]`) | [`array_subtract.c`](./array_subtract.c) |
 | 5 | **Second Largest Element** | Single-pass update (`INT_MIN` check) | [`array_second_largest.c`](./array_second_largest.c) |
+| 6 | **Array Reversal** | Two-Pointer technique (`left < right` swap) | [`array_reverse.c`](./array_reverse.c) |
