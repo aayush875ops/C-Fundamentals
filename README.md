@@ -16,3 +16,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 5 | **Second Largest Element** | Single-pass update (`INT_MIN` check) | [`array_second_largest.c`](./array_second_largest.c) |
 | 6 | **Array Reversal** | Two-Pointer technique (`left < right` swap) | [`array_reverse.c`](./array_reverse.c) |
 | 7 | **Largest of Three Numbers** | Conditional checks using `a >= b && a >= c` | [`largest_three.c`](./largest_three.c) |
+| 8 | **Even or Odd Check** | Check divisibility using `number % 2 == 0` | [`even_odd.c`](./even_odd.c) |
