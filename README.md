@@ -18,3 +18,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 7 | **Largest of Three Numbers** | Conditional checks using `a >= b && a >= c` | [`largest_three.c`](./largest_three.c) |
 | 8 | **Even or Odd Check** | Check divisibility using `number % 2 == 0` | [`even_odd.c`](./even_odd.c) |
 | 9 | **Leap Year Check** | Conditions: `((year % 4 == 0 && year % 100 != 0) \|\| (year % 400 == 0))` | [`leap_year.c`](./leap_year.c) |
+| 11 | **Dynamic Star Pattern** | Right-angled triangle with user-defined rows using nested loops | [`pattern_star.c`](./pattern_star.c) |
