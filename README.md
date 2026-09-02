@@ -20,3 +20,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 9 | **Leap Year Check** | Conditions: `((year % 4 == 0 && year % 100 != 0) \|\| (year % 400 == 0))` | [`leap_year.c`](./leap_year.c) |
 | 11 | **Dynamic Star Pattern** | Right-angled triangle with user-defined rows using nested loops | [`pattern_star.c`](./pattern_star.c) |
 | 13 | **Print 1 to 100** | Basic `for` loop iteration printing numbers up to `N` | [`simple_loop.c`](./simple_loop.c) |
+| 14 | **Multiplication Table** | Formatted table output using `for` loop iteration | [`multiplication_table.c`](./multiplication_table.c) |
