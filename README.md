@@ -21,3 +21,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 11 | **Dynamic Star Pattern** | Right-angled triangle with user-defined rows using nested loops | [`pattern_star.c`](./pattern_star.c) |
 | 13 | **Print 1 to 100** | Basic `for` loop iteration printing numbers up to `N` | [`simple_loop.c`](./simple_loop.c) |
 | 14 | **Multiplication Table** | Formatted table output using `for` loop iteration | [`multiplication_table.c`](./multiplication_table.c) |
+| 15 | **Sum of Digits** | Extract and accumulate digits using `% 10` and `/ 10` in a `while` loop | [`sum_of_digits.c`](./sum_of_digits.c) |
