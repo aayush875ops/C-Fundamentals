@@ -22,3 +22,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 13 | **Print 1 to 100** | Basic `for` loop iteration printing numbers up to `N` | [`simple_loop.c`](./simple_loop.c) |
 | 14 | **Multiplication Table** | Formatted table output using `for` loop iteration | [`multiplication_table.c`](./multiplication_table.c) |
 | 15 | **Sum of Digits** | Extract and accumulate digits using `% 10` and `/ 10` in a `while` loop | [`sum_of_digits.c`](./sum_of_digits.c) |
+| 16 | **Reverse a Number** | Reversing digits using modulo `% 10`, multiplication `* 10`, and division `/ 10` | [`reverse_number.c`](./reverse_number.c) |
