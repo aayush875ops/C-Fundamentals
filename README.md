@@ -24,3 +24,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 15 | **Sum of Digits** | Extract and accumulate digits using `% 10` and `/ 10` in a `while` loop | [`sum_of_digits.c`](./sum_of_digits.c) |
 | 16 | **Reverse a Number** | Reversing digits using modulo `% 10`, multiplication `* 10`, and division `/ 10` | [`reverse_number.c`](./reverse_number.c) |
 | 17 | **Prime Number Check** | Optimized $O(\sqrt{n})$ primality test using `i * i <= n` condition | [`prime_check.c`](./prime_check.c) |
+| 18 | **Count & Print Primes in Range** | Range iteration (2 to 50) printing individual primes and tracking total count using $O(\sqrt{n})$ primality test | [`prime_count_range.c`](./prime_count_range.c) |
