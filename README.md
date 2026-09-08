@@ -25,3 +25,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 14 | **Reverse a Number** | Reversing digits using modulo `% 10`, multiplication `* 10`, and division `/ 10` | [`reverse_number.c`](./reverse_number.c) |
 | 15 | **Prime Number Check** | Optimized $O(\sqrt{n})$ primality test using `i * i <= n` condition | [`prime_check.c`](./prime_check.c) |
 | 16 | **Count & Print Primes in Range** | Range iteration (2 to 50) printing individual primes and tracking total count using $O(\sqrt{n})$ primality test | [`prime_count_range.c`](./prime_count_range.c) |
+| 17 | **Simple Calculator** | Basic arithmetic operations using `if-else` ladder, explicit `(float)` typecasting, and division-by-zero check | [`simple_calculator.c`](./simple_calculator.c) |
