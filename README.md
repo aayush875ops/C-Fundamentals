@@ -28,3 +28,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 17 | **Simple Calculator** | Basic arithmetic operations using `if-else` ladder, explicit `(float)` typecasting, and division-by-zero check | [`simple_calculator.c`](./simple_calculator.c) |
 | 18 | **Area of Rectangle** | Basic arithmetic multiplication logic to compute area of a rectangle | [`area_rectangle.c`](./area_rectangle.c) |
 | 19 | **Area of Circle** | Computing circle area using floating-point arithmetic and precision formatting | [`area_of_circle.c`](./area_of_circle.c) |
+| 20 | **Number of Digits** | Digit counting algorithm using `do-while` loop with edge-case protection for zero | [`number_of_digits.c`](./number_of_digits.c) |
