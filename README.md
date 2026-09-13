@@ -31,3 +31,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 20 | **Number of Digits** | Digit counting algorithm using `do-while` loop with edge-case protection for zero | [`number_of_digits.c`](./number_of_digits.c) |
 | 21 | **Armstrong Number Check** | Dynamic $n$-digit Armstrong number validation using modulo extraction | [`armstrong.c`](./armstrong.c) |
 | 22 | **Factorial Calculation** | Iterative factorial calculation handling edge cases ($0! = 1$, negative numbers) using `unsigned long long` | [`factorial.c`](./factorial.c) |
+| 23 | **Swap Without 3rd Variable** | Arithmetic swap technique using addition and subtraction without temporary variable overhead | [`swap_without_3rd_variable.c`](./swap_without_3rd_variable.c) |
