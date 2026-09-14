@@ -32,3 +32,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 21 | **Armstrong Number Check** | Dynamic $n$-digit Armstrong number validation using modulo extraction | [`armstrong.c`](./armstrong.c) |
 | 22 | **Factorial Calculation** | Iterative factorial calculation handling edge cases ($0! = 1$, negative numbers) using `unsigned long long` | [`factorial.c`](./factorial.c) |
 | 23 | **Swap Without 3rd Variable** | Arithmetic swap technique using addition and subtraction without temporary variable overhead | [`swap_without_3rd_variable.c`](./swap_without_3rd_variable.c) |
+| 24 | **Fibonacci Series Generation** | Iterative generation of Fibonacci sequence up to $n$ terms using two-variable sliding window logic | [`fibonacci.c`](./fibonacci.c) |
