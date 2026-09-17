@@ -35,3 +35,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 24 | **Fibonacci Series Generation** | Iterative generation of Fibonacci sequence up to $n$ terms using two-variable sliding window logic | [`fibonacci.c`](./fibonacci.c) |
 | 25 | **Palindrome Number Check** | Validates if an integer reads the same backward as forward using digit extraction and reversal logic | [`palindrome.c`](./palindrome.c) |
 | 26 | **Simple Interest Calculation** | Input-driven financial interest calculation using `float` precision and multi-variable guard clause | [`simple_interest.c`](./simple_interest.c) |
+| 27 | **Two-Pointer Array Reversal** | In-place array element swapping using left and right pointers with $O(n/2)$ swaps | [`array_reversed.c`](./array_reversed.c) |
