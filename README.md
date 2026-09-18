@@ -36,3 +36,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 25 | **Palindrome Number Check** | Validates if an integer reads the same backward as forward using digit extraction and reversal logic | [`palindrome.c`](./palindrome.c) |
 | 26 | **Simple Interest Calculation** | Input-driven financial interest calculation using `float` precision and multi-variable guard clause | [`simple_interest.c`](./simple_interest.c) |
 | 27 | **Two-Pointer Array Reversal** | In-place array element swapping using left and right pointers with $O(n/2)$ swaps | [`array_reversed.c`](./array_reversed.c) |
+| 28 | **Days to Weeks Conversion** | Converts total days into weeks and remaining days using integer division and modulus operator with guard clause | [`days_to_weeks.c`](./days_to_weeks.c) |
