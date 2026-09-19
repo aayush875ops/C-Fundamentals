@@ -38,3 +38,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 27 | **Two-Pointer Array Reversal** | In-place array element swapping using left and right pointers with $O(n/2)$ swaps | [`array_reversed.c`](./array_reversed.c) |
 | 28 | **Days to Weeks Conversion** | Converts total days into weeks and remaining days using integer division and modulus operator with guard clause | [`days_to_weeks.c`](./days_to_weeks.c) |
 | 29 | **3-Digit Extraction** | Extracts hundreds, tens, and units digits using arithmetic operators with continuous `while` loop boundary validation | [`extract_digits.c`](./extract_digits.c) |
+| 30 | **GST Price Calculation** | Calculates 18% GST on cost with floating-point precision conversion and negative input validation loop | [`gst_calculator.c`](./gst_calculator.c) |
