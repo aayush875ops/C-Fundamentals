@@ -39,3 +39,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 28 | **Days to Weeks Conversion** | Converts total days into weeks and remaining days using integer division and modulus operator with guard clause | [`days_to_weeks.c`](./days_to_weeks.c) |
 | 29 | **3-Digit Extraction** | Extracts hundreds, tens, and units digits using arithmetic operators with continuous `while` loop boundary validation | [`extract_digits.c`](./extract_digits.c) |
 | 30 | **GST Price Calculation** | Calculates 18% GST on cost with floating-point precision conversion and negative input validation loop | [`gst_calculator.c`](./gst_calculator.c) |
+| 31 | **Compound Interest Calculation** | Calculates pure compound interest using `pow()` from `math.h` with direct principal subtraction and negative guard clauses | [`compound_interest.c`](./compound_interest.c) |
