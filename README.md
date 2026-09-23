@@ -42,3 +42,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 31 | **Compound Interest Calculation** | Calculates pure compound interest using `pow()` from `math.h` with direct principal subtraction and negative guard clauses | [`compound_interest.c`](./compound_interest.c) |
 | 32 | **Fuel Mileage Calculator** | Calculates fuel efficiency using float division with negative input validation and division-by-zero guard clauses | [`fuel_mileage.c`](./fuel_mileage.c) |
 | 33 | **Celsius to Fahrenheit Conversion** | Converts Celsius to Fahrenheit using explicit float division with Absolute Zero (`-273.15°C`) guard clause | [`celsius_to_fahrenheit.c`](./celsius_to_fahrenheit.c) |
+| 34 | **Gross Salary Calculator** | Calculates gross salary using percentage allowances with multi-variable negative guard clauses | [`gross_salary.c`](./gross_salary.c) |
