@@ -43,3 +43,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 32 | **Fuel Mileage Calculator** | Calculates fuel efficiency using float division with negative input validation and division-by-zero guard clauses | [`fuel_mileage.c`](./fuel_mileage.c) |
 | 33 | **Celsius to Fahrenheit Conversion** | Converts Celsius to Fahrenheit using explicit float division with Absolute Zero (`-273.15°C`) guard clause | [`celsius_to_fahrenheit.c`](./celsius_to_fahrenheit.c) |
 | 34 | **Gross Salary Calculator** | Calculates gross salary using percentage allowances with multi-variable negative guard clauses | [`gross_salary.c`](./gross_salary.c) |
+| 35 | **Age Calculator (Months & Days)** | Calculates approximate months, total days (including leap days), and leap year count with negative input guard clause | [`age_calculator.c`](./age_calculator.c) |
