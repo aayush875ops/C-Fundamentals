@@ -44,3 +44,5 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 33 | **Celsius to Fahrenheit Conversion** | Converts Celsius to Fahrenheit using explicit float division with Absolute Zero (`-273.15°C`) guard clause | [`celsius_to_fahrenheit.c`](./celsius_to_fahrenheit.c) |
 | 34 | **Gross Salary Calculator** | Calculates gross salary using percentage allowances with multi-variable negative guard clauses | [`gross_salary.c`](./gross_salary.c) |
 | 35 | **Age Calculator (Months & Days)** | Calculates approximate months, total days (including leap days), and leap year count with negative input guard clause | [`age_calculator.c`](./age_calculator.c) |
+| 36 | **Distance Unit Conversion** | Converts kilometers into meters and centimeters using explicit float scaling with input guard clause | [`km_to_m_cm.c`](./km_to_m_cm.c) |
+| 37 | **Total Wages Calculator** | Calculates total employee pay based on hours worked and hourly rate with input validation guard clauses | [`total_wages.c`](./total_wages.c) |
