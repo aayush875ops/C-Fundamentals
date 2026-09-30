@@ -48,3 +48,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 37 | **Distance Unit Conversion** | Converts kilometers into meters and centimeters using explicit float scaling with input guard clause | [`km_to_m_cm.c`](./km_to_m_cm.c) |
 | 38 | **Interest Earned Calculator** | Calculates net interest earned from principal and final received amount with input guard clauses | [`interest_earned.c`](./interest_earned.c) |
 | 39 | **Apple Distribution Calculator** | Calculates equal distribution and remaining quotient of apples per student with zero-division guard clause | [`apple_distribution.c`](./apple_distribution.c) |
+| 40 | **Fahrenheit to Celsius Converter** | Converts Fahrenheit to Celsius using explicit float literals with Absolute Zero (-459.67°F) guard clause | [`fahrenheit_to_celsius.c`](./fahrenheit_to_celsius.c) |
