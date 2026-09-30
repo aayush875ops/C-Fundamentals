@@ -47,3 +47,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 36 | **Total Wages Calculator** | Calculates total employee pay based on hours worked and hourly rate with input validation guard clauses | [`total_wages.c`](./total_wages.c) |
 | 37 | **Distance Unit Conversion** | Converts kilometers into meters and centimeters using explicit float scaling with input guard clause | [`km_to_m_cm.c`](./km_to_m_cm.c) |
 | 38 | **Interest Earned Calculator** | Calculates net interest earned from principal and final received amount with input guard clauses | [`interest_earned.c`](./interest_earned.c) |
+| 39 | **Apple Distribution Calculator** | Calculates equal distribution and remaining quotient of apples per student with zero-division guard clause | [`apple_distribution.c`](./apple_distribution.c) |
