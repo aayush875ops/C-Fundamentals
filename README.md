@@ -49,3 +49,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 38 | **Interest Earned Calculator** | Calculates net interest earned from principal and final received amount with input guard clauses | [`interest_earned.c`](./interest_earned.c) |
 | 39 | **Apple Distribution Calculator** | Calculates equal distribution and remaining quotient of apples per student with zero-division guard clause | [`apple_distribution.c`](./apple_distribution.c) |
 | 40 | **Fahrenheit to Celsius Converter** | Converts Fahrenheit to Celsius using explicit float literals with Absolute Zero (-459.67°F) guard clause | [`fahrenheit_to_celsius.c`](./fahrenheit_to_celsius.c) |
+| 41 | **GB to MB Digital Storage Converter** | Converts storage size from Gigabytes to Megabytes using binary conversion factor (1024) with input guard clause | [`gb_to_mb.c`](./gb_to_mb.c) |
