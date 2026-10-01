@@ -14,7 +14,7 @@ int main(){
     else{
         mb = gb * 1024;
 
-        printf("MB are =%d",mb);
+        printf("MB is = %d",mb);
     }
     return 0;
 }
