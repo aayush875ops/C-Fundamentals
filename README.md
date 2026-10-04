@@ -52,3 +52,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 41 | **GB to MB Digital Storage Converter** | Converts storage size from Gigabytes to Megabytes using binary conversion factor (1024) with input guard clause | [`gb_to_mb.c`](./gb_to_mb.c) |
 | 42 | **Sequential Array Subtraction** | Performs sequential subtraction across array elements starting from the first element with array boundary guard clause | [`array_sequential_subtraction.c`](./array_sequential_subtraction.c) |
 | 43 | **Array Sum & Average Calculator** | Computes the total sum and floating-point average of array elements with bounds validation and explicit typecasting | [`array_sum_average.c`](./array_sum_average.c) |
+| 44 | **Smallest of Three Numbers** | Finds the smallest among three integers using logical AND operators with equality handling and negative guard clause | [`smallest_of_three.c`](./smallest_of_three.c) |
