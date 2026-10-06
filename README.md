@@ -54,3 +54,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 43 | **Array Sum & Average Calculator** | Computes the total sum and floating-point average of array elements with bounds validation and explicit typecasting | [`array_sum_average.c`](./array_sum_average.c) |
 | 44 | **Smallest of Three Numbers** | Finds the smallest among three integers using logical AND operators with equality handling and negative guard clause | [`smallest_of_three.c`](./smallest_of_three.c) |
 | 45 | **Student Subject Marks & Average** | Calculates total marks and average for three subjects using floating-point literals with negative input guard clause | [`subject_marks.c`](./subject_marks.c) |
+| 46 | **Find Maximum & Minimum in Array** | Finds the largest and smallest elements in an array using single-pass linear traversal and array bounds validation | [`array_min_max.c`](./array_min_max.c) |
