@@ -56,3 +56,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 45 | **Student Subject Marks & Average** | Calculates total marks and average for three subjects using floating-point literals with negative input guard clause | [`subject_marks.c`](./subject_marks.c) |
 | 46 | **Find Maximum & Minimum in Array** | Finds the largest and smallest elements in an array using single-pass linear traversal and array bounds validation | [`array_min_max.c`](./array_min_max.c) |
 | 47 | **Currency Denomination Breakdown** | Calculates minimum Indian currency notes (500, 200, 100, 50, 20, 10) for an amount using division and modulo operators | [`currency_denomination.c`](./currency_denomination.c) |
+| 48 | **Sum of Three Amounts** | Calculates the cumulative sum of three transaction amounts with input validation for negative values | [`three_amount_sum.c`](./three_amount_sum.c) |
