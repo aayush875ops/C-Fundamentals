@@ -58,3 +58,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 47 | **Currency Denomination Breakdown** | Calculates minimum Indian currency notes (500, 200, 100, 50, 20, 10) for an amount using division and modulo operators | [`currency_denomination.c`](./currency_denomination.c) |
 | 48 | **Sum of Three Amounts** | Calculates the cumulative sum of three transaction amounts with input validation for negative values | [`three_amount_sum.c`](./three_amount_sum.c) |
 | 49 | **ATM Cash Withdrawal System** | Simulates ATM cash withdrawal with checks for negative inputs, insufficient balance, and denomination multiples of 100 | [`atm_withdrawal.c`](./atm_withdrawal.c) |
+| 50 | **Scholarship Eligibility Calculator** | Evaluates student marks using an if-else ladder to determine scholarship tiers with input bounds validation | [`scholarship.c`](./scholarship.c) |
