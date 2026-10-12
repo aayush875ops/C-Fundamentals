@@ -60,3 +60,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 49 | **ATM Cash Withdrawal System** | Simulates ATM cash withdrawal with checks for negative inputs, insufficient balance, and denomination multiples of 100 | [`atm_withdrawal.c`](./atm_withdrawal.c) |
 | 50 | **Scholarship Eligibility Calculator** | Evaluates student marks using an if-else ladder to determine scholarship tiers with input bounds validation | [`scholarship.c`](./scholarship.c) |
 | 51 | **Voting Eligibility Checker** | Validates voting eligibility based on age with negative input guard clause | [`voting_eligibility.c`](./voting_eligibility.c) |
+| 52 | **Student Details Record** | Captures and displays student name, class, and roll number with string formatting and input validation guard clauses | [`student_details.c`](./student_details.c) |
