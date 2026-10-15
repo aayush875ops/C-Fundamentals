@@ -62,4 +62,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 51 | **Voting Eligibility Checker** | Validates voting eligibility based on age with negative input guard clause | [`voting_eligibility.c`](./voting_eligibility.c) |
 | 52 | **Student Details Record** | Captures and displays student name, class, and roll number with string formatting and input validation guard clauses | [`student_details.c`](./student_details.c) |
 | 53 | **Advanced ATM Withdrawal with Minimum Balance** | Simulates ATM cash withdrawal with checks for negative values, denomination multiples of 100, and minimum post-withdrawal balance rule | [`atm_advanced.c`](./atm_advanced.c) |
-| 55 | **Interactive ATM Menu System** | Menu-driven ATM simulator using a while loop supporting balance checking, validated deposits, and secure withdrawals | [`atm_menu_system.c`](./atm_menu_system.c) |
+| 54 | **Interactive ATM Menu System** | Menu-driven ATM simulator using a while loop supporting balance checking, validated deposits, and secure withdrawals | [`atm_menu_system.c`](./atm_menu_system.c) |
