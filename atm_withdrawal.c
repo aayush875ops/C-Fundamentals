@@ -22,9 +22,8 @@ int main(){
         printf("amount should be multiple of 100\n");
     }
     else {
-        float b ;
-        b=(float)amount;
-        printf(" Balance %.2f - Amount %.2f = %.2f\n",balance,b,balance-amount);
+       float remaining_balance = balance -(float)amount;
+        printf("Remaining balance = %.2f\n",remaining_balance);
 
         printf("withdrawal successful\n");
     }
