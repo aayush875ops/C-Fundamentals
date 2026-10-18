@@ -66,3 +66,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 55 | **Sum of Even Digits** | Extracts digits of an integer using a while loop and calculates the sum of all even digits | [`sum_even_digits.c`](./sum_even_digits.c) |
 | 56 | **Find Largest Digit in a Number** | Extracts digits of an integer using a while loop to find and display the maximum individual digit | [`largest_digit.c`](./largest_digit.c) |
 | 57 | **Temperature Classification System** | Categorizes atmospheric temperature into distinct weather conditions using an optimized if-else ladder | [`temperature_classifier.c`](./temperature_classifier.c) |
+| 58 | **Student Grade Classification System** | Evaluates student scores into Distinction, Pass, and Fail tiers with validated input bounds | [`student_grading.c`](./student_grading.c) |
