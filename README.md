@@ -70,3 +70,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 59 | **Toll Plaza & Traffic Violation System** | Sentinel-controlled while loop system calculating vehicle tolls, speed fines, and axle rule violations | [`toll_plaza_system.c`](./toll_plaza_system.c) |
 | 60 | **Amusement Park Ticketing System** | Sentinel-controlled while loop system managing visitor entries, age tiers, ride discounts, and revenue tracking | [`amusement_park_system.c`](./amusement_park_system.c) |
 | 61 | **Grace Marks Calculation System** | Calculates eligible grace marks based on class tier and number of failed subjects using switch-case logic | [`grace_marks_system.c`](./grace_marks_system.c) |
+| 62 | **Sentinel-Controlled Marks Summation** | Accumulates subject marks dynamically using a while loop until a sentinel termination value is entered | [`sum_subject_marks.c`](./sum_subject_marks.c) |
