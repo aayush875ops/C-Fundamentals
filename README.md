@@ -73,3 +73,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 62 | **Sentinel-Controlled Marks Summation** | Accumulates subject marks dynamically using a while loop until a sentinel termination value is entered | [`sum_subject_marks.c`](./sum_subject_marks.c) |
 | 63 | **Electricity Billing System** | Sentinel-controlled while loop managing tiered electricity usage rates, senior citizen discounts, and revenue tracking | [`electricity_billing.c`](./electricity_billing.c) |
 | 64 | **Positive Readings Counter** | Sentinel-controlled while loop tracking and counting valid positive sensor readings while filtering out non-positive values | [`positive_readings_counter.c`](./positive_readings_counter.c) |
+| 65 | **Marks Average Calculator** | Sentinel-controlled while loop accumulating valid marks and computing precise floating-point averages | [`marks_average_calculator.c`](./marks_average_calculator.c) |
