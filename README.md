@@ -75,3 +75,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 64 | **Positive Readings Counter** | Sentinel-controlled while loop tracking and counting valid positive sensor readings while filtering out non-positive values | [`positive_readings_counter.c`](./positive_readings_counter.c) |
 | 65 | **Marks Average Calculator** | Sentinel-controlled while loop accumulating valid marks and computing precise floating-point averages | [`marks_average_calculator.c`](./marks_average_calculator.c) |
 | 66 | **Even and Odd Counter System** | Sentinel-controlled while loop categorizing numbers into even/odd with positive validation and final summary | [`even_odd_counter.c`](./even_odd_counter.c) |
+| 67 | **Highest Sales Tracker** | Sentinel-controlled while loop tracking the maximum sales amount entered with negative validation | [`highest_sales_tracker.c`](./highest_sales_tracker.c) |
