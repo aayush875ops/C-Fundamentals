@@ -76,3 +76,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 65 | **Marks Average Calculator** | Sentinel-controlled while loop accumulating valid marks and computing precise floating-point averages | [`marks_average_calculator.c`](./marks_average_calculator.c) |
 | 66 | **Even and Odd Counter System** | Sentinel-controlled while loop categorizing numbers into even/odd with positive validation and final summary | [`even_odd_counter.c`](./even_odd_counter.c) |
 | 67 | **Highest Sales Tracker** | Sentinel-controlled while loop tracking the maximum sales amount entered with negative validation | [`highest_sales_tracker.c`](./highest_sales_tracker.c) |
+| 68 | **Household Units Aggregator** | Sentinel-controlled while loop accumulating electricity units and counting active households with negative validation | [`household_units_aggregator.c`](./household_units_aggregator.c) |
