@@ -78,3 +78,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 67 | **Highest Sales Tracker** | Sentinel-controlled while loop tracking the maximum sales amount entered with negative validation | [`highest_sales_tracker.c`](./highest_sales_tracker.c) |
 | 68 | **Household Units Aggregator** | Sentinel-controlled while loop accumulating electricity units and counting active households with negative validation | [`household_units_aggregator.c`](./household_units_aggregator.c) |
 | 69 | **Product Sequence Tracker** | Sentinel-controlled while loop accumulating the product and count of positive numbers entered | [`product_sequence_tracker.c`](./product_sequence_tracker.c) |
+| 70 | **Password Authentication System** | Attempt-controlled while loop managing login security with a 3-attempt limit and macro definitions | [`password_authentication.c`](./password_authentication.c) |
