@@ -81,3 +81,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 70 | **Password Authentication System** | Attempt-controlled while loop managing login security with a 3-attempt limit and macro definitions | [`password_authentication.c`](./password_authentication.c) |
 | 71 | **Multiple of 3 or 5 Filter System** | Sentinel-controlled while loop validating and accumulating numbers that are multiples of 3 or 5 with error handling | [`multiple_filter_sum.c`](./multiple_filter_sum.c) |
 | 72 | **Price Expense Tracker** | Sentinel-controlled while loop tracking expenses, filtering invalid/zero prices, and counting high-value purchases (>500) | [`price_expense_tracker.c`](./price_expense_tracker.c) |
+| 73 | **Advanced Number Analytics System** | Sentinel-controlled while loop multi-metric analysis including sentinel inclusion in negative counts | [`number_analytics_system.c`](./number_analytics_system.c) |
