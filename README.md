@@ -84,3 +84,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 73 | **Advanced Number Analytics System** | Sentinel-controlled while loop multi-metric analysis including sentinel inclusion in negative counts | [`number_analytics_system.c`](./number_analytics_system.c) |
 | 74 | **Advanced Expense Tracker** | Sentinel-controlled while loop tracking expenses, counting high-value purchases (>500), and filtering negative invalid entries | [`advanced_expense_tracker.c`](./advanced_expense_tracker.c) |
 | 75 | **Product Sequence Filter System** | Sentinel-controlled while loop accumulating products of positive numbers while handling negative validation errors | [`product_sequence_filter.c`](./product_sequence_filter.c) |
+| 76 | **Voter Eligibility & Verification System** | Nested conditional branching validating user age and voter ID status (1 or 0) with comprehensive error handling | [`voter_eligibility_system.c`](./voter_eligibility_system.c) |
