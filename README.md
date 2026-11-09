@@ -87,3 +87,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 76 | **Voter Eligibility & Verification System** | Nested conditional branching validating user age and voter ID status (1 or 0) with comprehensive error handling | [`voter_eligibility_system.c`](./voter_eligibility_system.c) |
 | 77 | **Senior Citizen Utility Discount System** | Conditional nested branching applying senior citizen discounts based on unit consumption thresholds and user input validation | [`senior_discount_system.c`](./senior_discount_system.c) |
 | 78 | **Triangle Angle Validator** | Conditional branching verifying triangle validity using angle sum property (180 degrees) with strict non-positive input validation | [`triangle_angle_validator.c`](./triangle_angle_validator.c) |
+| 79 | **Service Bonus System** | Nested conditional branching evaluating years of service and performance ratings for bonus eligibility | [`service_bonus_system.c`](./service_bonus_system.c) |
