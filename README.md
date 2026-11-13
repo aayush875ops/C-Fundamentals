@@ -90,3 +90,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 79 | **Service Bonus System** | Nested conditional branching evaluating years of service and performance ratings for bonus eligibility | [`service_bonus_system.c`](./service_bonus_system.c) |
 | 80 | **Income Tax Slabs Calculator** | Nested conditional branching calculating income tax slabs based on citizen age categories and income thresholds with floating-point precision | [`income_tax_calculator.c`](./income_tax_calculator.c) |
 | 81 | **Tiered Discount & Membership System** | Conditional nested branching evaluating purchase amount thresholds and membership status with proper default total initialization | [`discount_system.c`](./discount_system.c) |
+| 82 | **Loan Eligibility & Credit System** | Nested conditional branching sequentially validating age, salary, and credit score thresholds with clean scoping | [`loan_eligibility_system.c`](./loan_eligibility_system.c) |
