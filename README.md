@@ -93,3 +93,8 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 82 | **Loan Eligibility & Credit System** | Nested conditional branching sequentially validating age, salary, and credit score thresholds with clean scoping | [`loan_eligibility_system.c`](./loan_eligibility_system.c) |
 | 83 | **Sports Selection & Fitness System** | Nested conditional branching sequentially validating age, fitness test status, and performance score thresholds | [`sports_selection_system.c`](./sports_selection_system.c) |
 | 84 | **Credit Score Interest Calculator** | Multi-branching range-based conditional ladder evaluating credit score brackets for variable interest rates with input validation | [`credit_interest_calculator.c`](./credit_interest_calculator.c) |
+## Functions
+
+| S.No | Topic / Logic | Key Concept / Formula | Source Code |
+| :--- | :--- | :--- | :--- |
+| 85 | **Modular Arithmetic Calculator System** | C program implementing user-defined functions (`add`, `subtract`, `multiply`, `division`, `modulus`) for arithmetic operations with division-by-zero safety guards | [`calculator_functions.c`](./calculator_functions.c) |
