@@ -98,3 +98,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | S.No | Topic / Logic | Key Concept / Formula | Source Code |
 | :--- | :--- | :--- | :--- |
 | 85 | **Modular Arithmetic Calculator System** | C program implementing user-defined functions (`add`, `subtract`, `multiply`, `division`, `modulus`) for arithmetic operations with division-by-zero safety guards | [`calculator_functions.c`](./calculator_functions.c) |
+| 86 | **Factorial Calculation System** | Modular C function using `unsigned long long` to compute factorials with negative input guard validation | [`factorial_calculator.c`](./factorial_calculator.c) |
