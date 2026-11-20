@@ -101,3 +101,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 86 | **Factorial Calculation System** | Modular C function using `unsigned long long` to compute factorials with negative input guard validation | [`factorial_calculator.c`](./factorial_calculator.c) |
 | 87 | **Square Calculation System** | Modular C function computing the square of a user-input integer with parameter passing and return values | [`square_calculator.c`](./square_calculator.c) |
 | 88 | **Prime Numbers in Range** | Modular `void` function checking prime numbers across a range using `j * j <= i` optimization, `continue` guard for `< 2`, and flag-based loop exit | [`prime_range_function.c`](./prime_range_function.c) |
+| 90 | **Celsius to Fahrenheit Converter** | Modular `float` function with prototype declaration converting Celsius to Fahrenheit using `9.0f / 5.0f` to avoid integer division | [`celsius_to_fahrenheit2.c`](./celsius_to_fahrenheit2.c) |
