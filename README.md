@@ -104,3 +104,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 89 | **Celsius to Fahrenheit Converter** | Modular `float` function with prototype declaration converting Celsius to Fahrenheit using `9.0f / 5.0f` to avoid integer division | [`celsius_to_fahrenheit2.c`](./celsius_to_fahrenheit2.c) |
 | 90 | **Billing Calculation System** | Modular `float` function accumulating item `price * quantity` totals with `item <= 0` validation and proper variable scoping | [`billing_system.c`](./billing_system.c) |
 | 91 | **Number Sign Checker Function** | Modular `int` function returning `1` for positive, `-1` for negative, and `0` for zero using `if-else` branches | [`check_number_sign.c`](./check_number_sign.c) |
+| 92 | **Digit Counter Function** | Modular `int` function counting total digits using a `do-while` loop and `number /= 10` (handles `0` and negative numbers) | [`count_digits_function.c`](./count_digits_function.c) |
