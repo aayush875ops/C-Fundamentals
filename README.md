@@ -105,3 +105,4 @@ Core C programming fundamentals, modular logic building, array manipulations, an
 | 90 | **Billing Calculation System** | Modular `float` function accumulating item `price * quantity` totals with `item <= 0` validation and proper variable scoping | [`billing_system.c`](./billing_system.c) |
 | 91 | **Number Sign Checker Function** | Modular `int` function returning `1` for positive, `-1` for negative, and `0` for zero using `if-else` branches | [`check_number_sign.c`](./check_number_sign.c) |
 | 92 | **Digit Counter Function** | Modular `int` function counting total digits using a `do-while` loop and `number /= 10` (handles `0` and negative numbers) | [`count_digits_function.c`](./count_digits_function.c) |
+| 93 | **Armstrong Number Checker Function** | Modular `int` function counting digits with `do-while` and raising each digit to `count` power via nested loops, with negative-input guard in `main` | [`armstrong_function.c`](./armstrong_function.c) |
